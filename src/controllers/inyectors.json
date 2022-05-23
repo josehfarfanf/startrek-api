@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"A",
+        "damagePercentage":0
+    },
+    {
+        "id":2,
+        "name":"B",
+        "damagePercentage":0
+    },
+    {
+        "id":3,
+        "name":"C",
+        "damagePercentage":0
+    }
+]
